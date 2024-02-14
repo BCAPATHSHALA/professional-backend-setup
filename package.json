@@ -1,0 +1,15 @@
+{
+  "name": "professional-backend-setup",
+  "version": "1.0.0",
+  "description": "This is a professional backend setup for production ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "JavaScript"
+  ],
+  "author": "Manoj Kumar",
+  "license": "ISC"
+}
